@@ -1,0 +1,24 @@
+{
+  "name": "metadata",
+  "version": "1.0.0",
+  "description": "Metadata for NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svnaditya/metadata.git"
+  },
+  "author": "Aditya Narayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svnaditya/metadata/issues"
+  },
+  "homepage": "https://github.com/svnaditya/metadata#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
